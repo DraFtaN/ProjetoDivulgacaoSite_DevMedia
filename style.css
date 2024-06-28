@@ -1,0 +1,38 @@
+div{
+    margin: 0px auto;
+    border-top: 1px solid #d5d5d5;
+    text-align: center;
+    padding: 50px;
+    font-family: tahoma;
+    color: #000000;
+    background-color: #F5F5F5;
+}
+img{
+    width: 190px;
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+    width: 930px;
+    margin: 15px auto 30px auto;
+}
+span{
+    font-weight: bold;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 25px;
+    padding: 10px 30px;
+    background-color: #49B970;
+    color: #F5F5F5;
+}
